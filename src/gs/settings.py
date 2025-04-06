@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-h$j6o5f9sranw7hi_80u+_n7wdno8w#q*0&s55hv3c2^5nqv1h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 # ALLOWED_HOSTS = ["https://restaurant-project-nine-opal.vercel.app/", "http://localhost:5173/"]
 ALLOWED_HOSTS = ["*"]
