@@ -69,7 +69,8 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Adjust this for your frontend domain
     # "http://127.0.0.1:5173",
-    "https://restaurant-project-nine-opal.vercel.app"
+    "https://restaurant-project-nine-opal.vercel.app",
+    "https://autovate-restro-frontent.vercel.app"
 ]
 
 ROOT_URLCONF = 'gs.urls'
